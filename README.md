@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Yasser
 
-<!--
-**yasserelshabrawy/yasserelshabrawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with strong experience in building scalable,
+high-performance web applications using Angular and React.
 
-Here are some ideas to get you started:
+I focus on clean architecture, performance optimization,
+accessibility, and multilingual (AR/EN) applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Latest angular version , React
+- TypeScript, JavaScript (ES6+)
+- RxJS, NgRx
+- TailwindCSS, PrimeNG, Angular Material
+- REST APIs, JWT Authentication
+- i18n, RTL Support
+
+### 📌 Featured Projects
+- Enterprise Admin Dashboards
+- Design Systems (DGA)
+- Healthcare & Government Platforms
+
+📫 Contact:
+- LinkedIn
+- Email
