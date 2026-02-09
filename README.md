@@ -20,5 +20,5 @@ accessibility, and multilingual (AR/EN) applications.
 - Healthcare & Government Platforms
 
 📫 Contact:
-- LinkedIn
-- Email
+- LinkedIn : https://www.linkedin.com/in/yasser-elshabrawy-377838257
+- Email : yasser.elshabrawy98@gmail.com
